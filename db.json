@@ -1,4 +1,5 @@
 {
+   "posts":
    [
     { "id": 1, "title": "Kast"},
     { "id": 2, "title": "Bed" },
