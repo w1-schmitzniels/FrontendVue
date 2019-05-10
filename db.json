@@ -1,4 +1,4 @@
-
+{
    [
     { "id": 1, "title": "Kast"},
     { "id": 2, "title": "Bed" },
@@ -8,3 +8,4 @@
     { "id": 6, "title": "Lava lamp" },
     { "id": 7, "title": "Zweedse balletjes" }
   ]
+}
