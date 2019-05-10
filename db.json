@@ -1,12 +1,13 @@
-
 {
   "posts": [
-    { "id": 1, "title": "Kast"},
-    { "id": 2, "title": "Bed" },
-    { "id": 3, "title": "Deur" },
-    { "id": 4, "title": "nacht kastje" },
-    { "id": 5, "title": "Lampje" },
-    { "id": 6, "title": "Lava lamp" },
-    { "id": 7, "title": "Zweedse balletjes" }
-  ]
-}
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
