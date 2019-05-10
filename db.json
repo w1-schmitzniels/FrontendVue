@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 1, "title": "Kast" },
+    { "id": 1, "title": "Kast", "completed": false },
     { "id": 2, "title": "Bed" },
     { "id": 3, "title": "Deur" },
     { "id": 4, "title": "nacht kastje" },
