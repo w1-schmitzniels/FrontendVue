@@ -1,7 +1,7 @@
 <template>
   <header class="header">
     <div class="Ikea">
-    <h1>IKEA<span style="font-size: 13px; vertical-align: text-top;">®</span> Boodschappen Lijstje</h1>
+    <h1>IKEA<span style="font-size: 13px; vertical-align: text-top;">®</span> Boorschappen Lijstje</h1>
     <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">Over ons</router-link>
