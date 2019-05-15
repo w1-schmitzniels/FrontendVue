@@ -1,7 +1,6 @@
 <template>
   <header class="header">
-    <img src="../../../images/ikealogo.png" id="logo">
-     <router-link to="/about">Over ons</router-link>
+    <img src="../../../images/ikeagif.gif" id="logo">
   </header>
 </template>
 
@@ -13,32 +12,15 @@ export default {
 
 <style scoped>
   .header {
-    background: #0057A4;
-    color: #F8D500;
+    background: white;
     text-align: center;
     padding: 30px;
-    height: 150px;
-  }
-
-  .header a {
-    color: #004FB5;
-    background: #F8D500;
-    border-radius: 30px;
-    padding: 10px;
-    text-decoration: none;
-  }
-  .Ikea
-  {
-    color: #004FB5;
-    background: #F8D500;
-    width: 100%;
     height: 100px;
-    border-radius: 60%;
   }
   #logo
   {
-    height: 130%;
-    margin-top: -1%;
+    height: 500%;
+    margin-top: -5.5%;
     margin-left: -90%;
   }
 

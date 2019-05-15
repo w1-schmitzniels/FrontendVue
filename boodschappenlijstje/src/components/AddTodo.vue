@@ -4,6 +4,7 @@
       <input type="text" v-model="title" name="title" placeholder="Boodschappen toevoegen">
       <input type="submit" value="Toevoegen" class="btn">
     </form>
+    <router-link to="/about">Over ons</router-link>
   </div>
 </template>
 
@@ -39,6 +40,7 @@ export default {
   input[type="text"] {
     flex: 10;
     padding: 5px;
+    border: none;
   }
 
   input[type="submit"] {
