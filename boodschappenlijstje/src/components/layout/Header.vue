@@ -1,12 +1,6 @@
 <template>
   <header class="header">
-    <div class="Ikea">
-    <h1>IKEA<span style="font-size: 13px; vertical-align: text-top;">®</span> Boorschappen Lijstje</h1>
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">Over ons</router-link>
-    </div>
-    </div>
+    <img src="../../../images/ikealogo.png" id="logo">
   </header>
 </template>
 
@@ -18,10 +12,11 @@ export default {
 
 <style scoped>
   .header {
-    background: #004FB5;
+    background: #0057A4;
     color: #F8D500;
     text-align: center;
     padding: 30px;
+    height: 150px;
   }
 
   .header a {
@@ -39,7 +34,12 @@ export default {
     height: 100px;
     border-radius: 60%;
   }
-  
+  #logo
+  {
+    height: 130%;
+    margin-top: -1%;
+    margin-left: -90%;
+  }
 
 </style>
 
