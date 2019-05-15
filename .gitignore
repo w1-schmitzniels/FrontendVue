@@ -22413,3 +22413,5 @@ boodschappenlijstje/node_modules/yorkie/src/utils/get-hook-script.js
 boodschappenlijstje/node_modules/yorkie/src/utils/is.js
 boodschappenlijstje/package-lock.json
 boodschappenlijstje/package.json
+boodschappenlijstje/package-lock.json
+*.json
