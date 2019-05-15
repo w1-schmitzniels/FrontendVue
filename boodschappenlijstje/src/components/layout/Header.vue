@@ -1,6 +1,7 @@
 <template>
   <header class="header">
     <img src="../../../images/ikealogo.png" id="logo">
+     <router-link to="/about">Over ons</router-link>
   </header>
 </template>
 
